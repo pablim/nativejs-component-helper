@@ -1,0 +1,23 @@
+{
+  "name": "nativejs-component-helper",
+  "version": "0.1.0",
+  "description": "A native js component helper for build native web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablim/nativejs-component-helper.git"
+  },
+  "keywords": [
+    "component",
+    "webcomponent"
+  ],
+  "author": "Pablo Vaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablim/nativejs-component-helper/issues"
+  },
+  "homepage": "https://github.com/pablim/nativejs-component-helper#readme"
+}
